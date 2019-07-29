@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"huobiapi/client"
-	"huobiapi/market"
+	"Market/client"
+	"Market/market"
 	"github.com/bitly/go-simplejson"
 )
 

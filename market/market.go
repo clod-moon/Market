@@ -8,7 +8,7 @@ import (
 	"math"
 
 	"github.com/bitly/go-simplejson"
-	"huobiapi/debug"
+	"Market/debug"
 	"sync"
 )
 
